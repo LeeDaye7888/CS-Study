@@ -1,2 +1,2 @@
 # CS-Study
-CS 공부를 위해 만들어진 repository입니다.
+CS 공부한 것을 기록하는 repository입니다.
